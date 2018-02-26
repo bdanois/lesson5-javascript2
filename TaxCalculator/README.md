@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 28th 2018
 
 ### Student Name:  
-(First and Last Name)
+Brianna Danois
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment involved Using Javascript to make a real world application involving calculating tax brackets for people
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bdanois.github.io/lesson5-javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use functions in a javascript program
+2. I received a lot of practice with various math operators in javascript
+3. I learned how if statements in javascript function
 
